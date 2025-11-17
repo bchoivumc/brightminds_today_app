@@ -1,4 +1,4 @@
-package com.example.bright_minds
+package app.today.brightminds
 
 import io.flutter.embedding.android.FlutterActivity
 
